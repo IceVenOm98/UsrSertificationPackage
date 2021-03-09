@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "581be6b0-039c-422c-86b3-98fc988826b7",
+    "Name": "UsrAdUnit1Page",
+    "ModifiedOnUtc": "\/Date(1614758936000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Рекламный блок\"",
+    "DependsOn": []
+  }
+}

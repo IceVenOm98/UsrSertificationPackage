@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "51669e0e-eddc-9693-a4b1-8e24f2c2d657",
+    "Name": "UsrCountingSumOfReleasesService",
+    "ModifiedOnUtc": "\/Date(1614759419000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Сервис подсчета суммы стоимости выпусков",
+    "DependsOn": []
+  }
+}

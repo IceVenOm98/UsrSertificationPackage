@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae321bc0-fade-f756-f878-5a8ca03d26d6",
+    "Name": "UsrReleaseDetail",
+    "ModifiedOnUtc": "\/Date(1614758210000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Выпуски рекламного блока",
+    "DependsOn": []
+  }
+}

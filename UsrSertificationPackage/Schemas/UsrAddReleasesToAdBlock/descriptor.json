@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5a7f947c-86f5-4664-bfb5-9709f32bd976",
+    "Name": "UsrAddReleasesToAdBlock",
+    "ModifiedOnUtc": "\/Date(1614758166000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Добавление выпусков рекламного блока",
+    "DependsOn": []
+  }
+}

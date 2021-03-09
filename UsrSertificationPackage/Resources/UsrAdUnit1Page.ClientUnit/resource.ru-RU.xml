@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Рекламный блок&quot;" />
+			<Item Name="LocalizableStrings.AddReleases.Value" Value="Добавить 10 выпусков" />
+			<Item Name="LocalizableStrings.BadAddingReleases.Value" Value="Добавить выпуски не удалось" />
+			<Item Name="LocalizableStrings.ManyAdsException.Value" Value="Слишком много ежечасных блоков. Макс кол-во = " />
+			<Item Name="LocalizableStrings.ReleasesTabTabCaption.Value" Value="Выпуски рекламного блока" />
+			<Item Name="LocalizableStrings.SuccessAddingReleases.Value" Value="Успешно добавлены выпуски" />
+			<Item Name="LocalizableStrings.UsrReleaseDetailDetailCaptionOnPage.Value" Value="Выпуски" />
+		</Items>
+	</Group>
+</Resources>

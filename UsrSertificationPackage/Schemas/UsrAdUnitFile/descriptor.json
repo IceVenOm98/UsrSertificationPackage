@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d24f3a41-48de-499a-a1c5-b9ab4b3120f4",
+    "Name": "UsrAdUnitFile",
+    "ModifiedOnUtc": "\/Date(1614331740000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Рекламный блок",
+    "DependsOn": []
+  }
+}

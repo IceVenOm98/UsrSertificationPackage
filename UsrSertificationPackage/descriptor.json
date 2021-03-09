@@ -1,0 +1,21 @@
+﻿{
+  "Descriptor": {
+    "UId": "46719fbe-674f-d835-8241-a5f38cd22136",
+    "Name": "UsrSertificationPackage",
+    "ModifiedOnUtc": "\/Date(1614249561000)\/",
+    "Maintainer": "Customer",
+    "Description": "Пакет с реализацией сертификационных заданий",
+    "DependsOn": [
+      {
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+} 

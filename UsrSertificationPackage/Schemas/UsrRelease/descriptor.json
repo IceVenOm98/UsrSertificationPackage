@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b21eb955-20e7-b147-b6a6-724e3be5bdad",
+    "Name": "UsrRelease",
+    "ModifiedOnUtc": "\/Date(1614757553000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Выпуск",
+    "DependsOn": []
+  }
+}

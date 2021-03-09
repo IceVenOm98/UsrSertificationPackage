@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddReleaseTack.Caption" Value="Добавить выпуск" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.EntitySchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.FilterEntitySchemaId.Caption" Value="Объект выборки" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.RecordAddMode.Caption" Value="Режим добавления записей" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.RecordDefValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[]}" />
+			<Item Name="BaseElements.AddReleaseTack.Parameters.RecordId.Caption" Value="Id созданной записи" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Если записей меньше 10" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Новая дата выпуска" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Длительность выпусков string to int" />
+			<Item Name="BaseElements.FormulaTask5.Caption" Value="Итератор" />
+			<Item Name="BaseElements.GetAdUnitTask.Caption" Value="Получение объекта рекламного блока" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.GetAdUnitTask.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Получение длительности выпуска" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Перезагрузка грида детали" />
+			<Item Name="Caption" Value="Добавление выпусков рекламного блока" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.AdUnitId.Caption" Value="Id Рекламного блока" />
+			<Item Name="Parameters.DateOfRelease.Caption" Value="Дата и время выпуска" />
+			<Item Name="Parameters.DateOfRelease.DisplayValue" Value="[#Системная переменная.Текущее значение даты и времени#]" />
+			<Item Name="Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Parameters.Iterator.Caption" Value="Итератор" />
+			<Item Name="Parameters.Iterator.DisplayValue" Value="0" />
+		</Items>
+	</Group>
+</Resources>
